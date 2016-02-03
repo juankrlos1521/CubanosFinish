@@ -1,0 +1,25 @@
+C:\Users\Freddy\documents\visual studio 2013\Projects\CubanosGym\Cubanos.BusinessEntity\bin\Debug\Cubanos.BusinessEntity.dll
+C:\Users\Freddy\documents\visual studio 2013\Projects\CubanosGym\Cubanos.BusinessEntity\bin\Debug\Cubanos.BusinessEntity.pdb
+C:\Users\Freddy\documents\visual studio 2013\Projects\CubanosGym\Cubanos.BusinessEntity\obj\Debug\Cubanos.BusinessEntity.csprojResolveAssemblyReference.cache
+C:\Users\Freddy\documents\visual studio 2013\Projects\CubanosGym\Cubanos.BusinessEntity\obj\Debug\Cubanos.BusinessEntity.dll
+C:\Users\Freddy\documents\visual studio 2013\Projects\CubanosGym\Cubanos.BusinessEntity\obj\Debug\Cubanos.BusinessEntity.pdb
+C:\Users\Carlos\Desktop\CubanosGym\Cubanos.BusinessEntity\bin\Debug\Cubanos.BusinessEntity.dll
+C:\Users\Carlos\Desktop\CubanosGym\Cubanos.BusinessEntity\bin\Debug\Cubanos.BusinessEntity.pdb
+C:\Users\Carlos\Desktop\CubanosGym\Cubanos.BusinessEntity\obj\Debug\Cubanos.BusinessEntity.csprojResolveAssemblyReference.cache
+C:\Users\Carlos\Desktop\CubanosGym\Cubanos.BusinessEntity\obj\Debug\Cubanos.BusinessEntity.dll
+C:\Users\Carlos\Desktop\CubanosGym\Cubanos.BusinessEntity\obj\Debug\Cubanos.BusinessEntity.pdb
+C:\Users\Jonathan\Desktop\CubanosGym\Cubanos.BusinessEntity\bin\Debug\Cubanos.BusinessEntity.dll
+C:\Users\Jonathan\Desktop\CubanosGym\Cubanos.BusinessEntity\bin\Debug\Cubanos.BusinessEntity.pdb
+C:\Users\Jonathan\Desktop\CubanosGym\Cubanos.BusinessEntity\obj\Debug\Cubanos.BusinessEntity.csprojResolveAssemblyReference.cache
+C:\Users\Jonathan\Desktop\CubanosGym\Cubanos.BusinessEntity\obj\Debug\Cubanos.BusinessEntity.dll
+C:\Users\Jonathan\Desktop\CubanosGym\Cubanos.BusinessEntity\obj\Debug\Cubanos.BusinessEntity.pdb
+C:\Users\Freddy\Desktop\CubanosGym\Cubanos.BusinessEntity\bin\Debug\Cubanos.BusinessEntity.dll
+C:\Users\Freddy\Desktop\CubanosGym\Cubanos.BusinessEntity\bin\Debug\Cubanos.BusinessEntity.pdb
+C:\Users\Freddy\Desktop\CubanosGym\Cubanos.BusinessEntity\obj\Debug\Cubanos.BusinessEntity.dll
+C:\Users\Freddy\Desktop\CubanosGym\Cubanos.BusinessEntity\obj\Debug\Cubanos.BusinessEntity.pdb
+C:\Users\Freddy\Desktop\CubanosGym\Cubanos.BusinessEntity\obj\Debug\Cubanos.BusinessEntity.csprojResolveAssemblyReference.cache
+C:\Users\Carlos\Desktop\cubanos\Cubanos.BusinessEntity\bin\Debug\Cubanos.BusinessEntity.dll
+C:\Users\Carlos\Desktop\cubanos\Cubanos.BusinessEntity\bin\Debug\Cubanos.BusinessEntity.pdb
+C:\Users\Carlos\Desktop\cubanos\Cubanos.BusinessEntity\obj\Debug\Cubanos.BusinessEntity.csprojResolveAssemblyReference.cache
+C:\Users\Carlos\Desktop\cubanos\Cubanos.BusinessEntity\obj\Debug\Cubanos.BusinessEntity.dll
+C:\Users\Carlos\Desktop\cubanos\Cubanos.BusinessEntity\obj\Debug\Cubanos.BusinessEntity.pdb
